@@ -1,2 +1,2 @@
-# I made necessary changes to parse the given JSON using GSON.
+# This repository demonstrates JSON parsing using GSON
 
